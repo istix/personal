@@ -39,7 +39,7 @@ body{
 }
 .LBT{
     color: white;
-    background-image: linear-gradient(40deg, purple,orange);
+    background-image: linear-gradient(40deg, rgb(156, 232, 14),rgb(222, 155, 30));
     border: 30px 10px;
     padding: 20px;
     border-radius: 5px;
